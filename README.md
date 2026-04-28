@@ -46,8 +46,7 @@ This project is an interactive Power BI dashboard built to analyze Amazon sales 
 
 ## 📸 Dashboard Preview
 
-(Add your screenshot here)
-
+![Dashboard](https://github.com/smrutipragyan01/Amazon-Sales-Dashboard-Power-BI-/blob/main/power%20bi%202.png)
 ---
 
 ## 🎯 Learning Outcomes
