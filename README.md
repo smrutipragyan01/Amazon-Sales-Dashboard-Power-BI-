@@ -38,8 +38,9 @@ This project is an interactive Power BI dashboard built to analyze Amazon sales 
 ## 📂 Files Included
 
 * `Amazon Sales Dashboard.pbix` (Power BI file)
-* `Dataset.xlsx`
+* `Amazon Store Sales Data.xlsx`
 * `Dashboard Screenshot.png`
+* Amazon sales dashboard.pdf
 
 ---
 
